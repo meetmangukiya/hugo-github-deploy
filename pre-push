@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "[running deploy.sh]"
+./deploy.sh
+echo "[pushing source code to $1 $2]"
